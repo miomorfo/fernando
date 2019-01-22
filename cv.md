@@ -43,4 +43,17 @@ permalink: /cv/
 **Email:** <fernando.eb@icloud.com>.  
 **GitHub:** <http://github.com/miomorfo>
 
+---
+
+### Estudios
+* Ingeniería en Informatica - Universidad Tecnologica de Chile Inacap (2015 al 2018)
+* Publicidad & Gráfica - Liceo Técnico Oscar Moser
+
+
+### Cursos
+* Diseño de aplicaciones móviles Android - Inacap 2018
+* Fotografía - Inacap 2013
+
+### Participaciones 
+*
 
