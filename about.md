@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Acerca de
 permalink: /about/
 ---
 
-Some information about you!
+Informático, lector y fotógrafo
 
 ### Más Información
 
