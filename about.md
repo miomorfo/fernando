@@ -6,10 +6,10 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### Más Información
 
-A place to include any other types of information that you'd like to include about yourself.
+Me gusta la programcaión en entornos iOS, a veces colaboro con proyectos de software libre en especial para proyectos en QT o python, disfruto de la biología y de observación de artrópodos.
 
-### Contact me
+### Contacto
 
-[email@domain.com](mailto:email@domain.com)
+[fernando.eb@icloud.com](mailto:fernando.eb@icloud.com)
